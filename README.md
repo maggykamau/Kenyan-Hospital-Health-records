@@ -9,4 +9,4 @@ This project analyses kenyan hospital records using microsoft excel
 - Tight work schedule
 - Network connection
 - Power black outs
--Other challenges
+- Other challenges
